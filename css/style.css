@@ -15,7 +15,7 @@
 /* ============================================================================ */
 
 body {
-  background: url("http://www.depotwebdesigner.com/images/1/background.jpg");
+  background: url("../images/background.jpg");
   font: 15px/150% Georgia, "Times New Roman", Times, serif; }
 
 /* =============================================== /*
@@ -182,7 +182,7 @@ body {
 /* =============================================== */
 
 .sprite {
-  background: url("http://www.depotwebdesigner.com/images/1/sprite.svg") no-repeat;
+  background: url("../images/sprite.svg") no-repeat;
   background-size: 23px; }
 
 .twitter {
